@@ -1,5 +1,5 @@
 # Deeplearning
-
+![alt text](https://github.com/nanofaroque/deeplearning/blob/master/deep_nn.png)
 ### Helpful links: 
 1. https://developers.google.com/machine-learning/crash-course/first-steps-with-tensorflow/programming-exercises?authuser=1
 2. https://www.geeksforgeeks.org/python-pandas-series/
